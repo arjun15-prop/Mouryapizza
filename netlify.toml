@@ -1,0 +1,4 @@
+[[redirects]]
+form = "/*"
+to = "Mouryapizza.html"
+status = 200
